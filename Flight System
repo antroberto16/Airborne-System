@@ -7,3 +7,6 @@ git remote add origin https://github.com/antroberto16/Airborne-System.git
 git push -u origin main
 //#
 new 
+if n<=1
+  for n<100>
+then x=100*n
